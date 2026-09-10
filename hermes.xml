@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+  <channel>
+    <title>CS Hypnose — Hermes</title>
+    <link>https://www.cs-hypnose.fr</link>
+    <description>Hypnothérapeute à Cubnezais (Gironde) — séances, protocoles et articles.</description>
+    <lastBuildDate>Thu, 10 Sep 2026 11:24:32 +0000</lastBuildDate>
+    <atom:link href="https://feed.cs-hypnose.fr/hermes.xml" type="application/rss+xml" rel="self"/>
+    <item>
+      <title>TEST HERMES — NE PAS PUBLIER</title>
+      <link>https://www.cs-hypnose.fr/test-hermes-ne-pas-publier</link>
+      <guid isPermaLink="true">https://www.cs-hypnose.fr/test-hermes-ne-pas-publier</guid>
+      <description>Article de test pour vérifier ce qu'IONOS conserve lors de l'import RSS : titres, gras, listes, liens, images et caractères accentués (é à ç ù œ €).</description>
+      <pubDate>Tue, 08 Sep 2026 22:30:00 +0200</pubDate>
+      <author>CS Hypnose (CS Hypnose)</author>
+      <content:encoded><![CDATA[<div data-rss-type="text">
+<p>Ceci est un <strong>article de test</strong> généré par Hermes. Il ne doit <em>pas</em> être publié tel quel.</p>
+<h2>Objectif du test</h2>
+<p>Vérifier précisément ce qu'IONOS MyWebsite conserve à l'import d'un flux RSS : le titre, l'extrait, les paragraphes, les niveaux de titres, les mises en forme, les listes, les liens, les images, la date et l'auteur.</p>
+<h3>Caractères accentués à contrôler</h3>
+<p>Vérifions : é à è ù ç œ â ê î ô û ë ï ü — et les guillemets « français » ainsi que l'apostrophe typographique ’. Un prix en euros : 37 €.</p>
+<h2>Structure à valider</h2>
+<ul>
+<li>Liste à puces — premier élément</li>
+<li>Liste à puces — deuxième élément avec <strong>gras</strong> et <em>italique</em></li>
+<li>Liste à puces — troisième élément avec un <a href="https://form.typeform.com/to/SC4chwNf">lien de test</a></li>
+</ul>
+<h3>Sous-titre de niveau 3</h3>
+<p>Paragraphe après un H3, pour vérifier la hiérarchie des titres dans le rendu IONOS.</p>
+<p><strong>Texte en gras</strong> puis <em>texte en italique</em> puis un <a href="https://www.cs-hypnose.fr">lien vers le site</a>.</p>
+</div>]]></content:encoded>
+      <media:content medium="image" url="https://cdn.website-editor.net/s/9eb5de100ff3475889d93b42edf0a816/dms3rep/multi/Gemini_Generated_Image_g3e189g3e189g3e1.png"/>
+      <media:description>Visuel de test Hermes — image principale</media:description>
+    </item>
+  </channel>
+</rss>
