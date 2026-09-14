@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+  <channel>
+    <title>CS Hypnose — Hermes</title>
+    <link>https://www.cs-hypnose.fr</link>
+    <description>Hypnothérapeute à Cubnezais (Gironde) — séances, protocoles et articles.</description>
+    <lastBuildDate>Mon, 14 Sep 2026 13:56:16 +0000</lastBuildDate>
+    <atom:link href="https://feed.cs-hypnose.fr/hermes.xml" type="application/rss+xml" rel="self"/>
+    <item>
+      <title>TEST HERMES v4 — NE PAS PUBLIER</title>
+      <link>https://www.cs-hypnose.fr/test-hermes-v4-ne-pas-publier</link>
+      <guid isPermaLink="true">https://www.cs-hypnose.fr/test-hermes-v4-ne-pas-publier</guid>
+      <description>Quatrième test : l'image doit apparaître en BANNIÈRE (miniature de la liste + fond du titre), pas dans le corps de l'article.</description>
+      <pubDate>Mon, 14 Sep 2026 12:30:00 +0200</pubDate>
+      <author>CS Hypnose (CS Hypnose)</author>
+      <content:encoded><![CDATA[<p>Quatrième test. L'image n'est plus dans le corps du texte : elle est déclarée uniquement comme <strong>image principale</strong> du flux, pour alimenter la bannière et la miniature.</p><h3><strong>Ce que tu dois voir</strong></h3><ul><li>Une <strong>bannière</strong> en haut avec l'image et le titre par-dessus</li><li>Une <strong>miniature</strong> dans la liste du blog</li><li><em>Aucune</em> image dans le corps de l'article</li><li>Les titres de section bien visibles</li></ul><h3><strong>Structure du contenu</strong></h3><p>Le texte commence directement par ce paragraphe, comme dans un vrai article. Les accents sont là : é à è ù ç œ « » ’ 37 €.</p><h3><strong>Et ensuite ?</strong></h3><p>Si la bannière apparaît, le pipeline est complet et je prépare le prochain article CS Hypnose.</p><p>Lien de contrôle : <a href="https://form.typeform.com/to/SC4chwNf">le questionnaire des protocoles</a>.</p>]]></content:encoded>
+      <media:content medium="image" url="https://constor33.github.io/cs-hypnose-feed/images/cover-v3-1200x630.jpg"/>
+      <media:description>Femme lisant le soir dans une chambre chaleureuse — visuel CS Hypnose</media:description>
+      <enclosure url="https://constor33.github.io/cs-hypnose-feed/images/cover-v3-1200x630.jpg" length="139497" type="image/png"/>
+    </item>
+  </channel>
+</rss>
