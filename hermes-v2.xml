@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+  <channel>
+    <title>CS Hypnose — Hermes</title>
+    <link>https://www.cs-hypnose.fr</link>
+    <description>Hypnothérapeute à Cubnezais (Gironde) — séances, protocoles et articles.</description>
+    <lastBuildDate>Mon, 14 Sep 2026 08:56:23 +0000</lastBuildDate>
+    <atom:link href="https://feed.cs-hypnose.fr/hermes.xml" type="application/rss+xml" rel="self"/>
+    <item>
+      <title>TEST HERMES v2 — NE PAS PUBLIER</title>
+      <link>https://www.cs-hypnose.fr/test-hermes-v2-ne-pas-publier</link>
+      <guid isPermaLink="true">https://www.cs-hypnose.fr/test-hermes-v2-ne-pas-publier</guid>
+      <description>Second test d'import : vérifier que l'image principale passe et que les titres H2 sont conservés.</description>
+      <pubDate>Mon, 14 Sep 2026 11:30:00 +0200</pubDate>
+      <author>CS Hypnose (CS Hypnose)</author>
+      <content:encoded><![CDATA[<p><img src="https://constor33.github.io/cs-hypnose-feed/images/cover-test-1200x630.png" alt="Femme réfléchissant le soir dans son lit — visuel de test CS Hypnose" style="width:100%;height:auto"/></p><p>Deuxième test d'import. Les <strong>correctifs</strong> portent sur l'<em>image</em> et les titres.</p><h2><strong>Test des titres H2</strong></h2><p>Ce paragraphe suit un H2 écrit simplement. Si tu vois le titre ci-dessus, le correctif fonctionne.</p><h2><strong>Test de l'image</strong></h2><p>L'image est désormais hébergée sur le même domaine que le flux (GitHub Pages) et déclarée en <em>media:content</em>, <em>enclosure</em> et dans le contenu HTML. Elle doit apparaître en haut de l'article.</p><h3>Sous-titre H3 de contrôle</h3><p>Ce H3 servait déjà de repère au test précédent — il doit toujours s'afficher.</p><ul><li>Premier point de liste</li><li>Deuxième point avec <strong>du gras</strong></li><li>Troisième point avec un <a href="https://www.cs-hypnose.fr">lien</a></li></ul><h2><strong>Caractères accentués</strong></h2><p>Contrôle final : é à è ù ç œ â ê î ô û ë ï ü — « guillemets » ’ apostrophe — 37 €.</p>]]></content:encoded>
+      <media:content medium="image" url="https://constor33.github.io/cs-hypnose-feed/images/cover-test-1200x630.png"/>
+      <media:description>Femme réfléchissant le soir dans son lit — visuel de test CS Hypnose</media:description>
+      <enclosure url="https://constor33.github.io/cs-hypnose-feed/images/cover-test-1200x630.png" length="128046" type="image/png"/>
+    </item>
+  </channel>
+</rss>
