@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+  <channel>
+    <title>CS Hypnose — Hermes</title>
+    <link>https://www.cs-hypnose.fr</link>
+    <description>Hypnothérapeute à Cubnezais (Gironde) — séances, protocoles et articles.</description>
+    <lastBuildDate>Thu, 17 Sep 2026 12:55:02 +0000</lastBuildDate>
+    <atom:link href="https://feed.cs-hypnose.fr/hermes.xml" type="application/rss+xml" rel="self"/>
+    <item>
+      <title>TEST HERMES v5 — NE PAS PUBLIER</title>
+      <link>https://www.cs-hypnose.fr/test-hermes-v5-ne-pas-publier</link>
+      <guid isPermaLink="true">https://www.cs-hypnose.fr/test-hermes-v5-ne-pas-publier</guid>
+      <description>Cinquième test : image PAYSAGE 1200x630, type MIME réel (image/png) et balise media:thumbnail ajoutée — objectif : obtenir la BANNIÈRE.</description>
+      <pubDate>Thu, 17 Sep 2026 12:30:00 +0200</pubDate>
+      <author>CS Hypnose (CS Hypnose)</author>
+      <content:encoded><![CDATA[<p>Cinquième test. Le contenu est identique au v4 : l'image n'est <em>pas</em> dans le corps de l'article, elle est déclarée uniquement comme <strong>image principale</strong> du flux.</p><h3><strong>Ce que tu dois voir</strong></h3><ul><li>Une <strong>bannière</strong> en haut avec l'image et le titre par-dessus</li><li>Une <strong>miniature</strong> dans la liste du blog</li><li><em>Aucune</em> image dans le corps de l'article</li></ul><h3><strong>Ce qui change en v5</strong></h3><ul><li>Image <strong>paysage 1200x630</strong> (les v3/v4 envoyaient un carré 1024x1024 mal nommé)</li><li><strong>Type MIME réel</strong> : image/png (les v3/v4 déclaraient image/png pour un JPEG)</li><li>Ajout de la balise <strong>media:thumbnail</strong></li></ul><h3><strong>Et ensuite ?</strong></h3><p>Si la bannière apparaît, le pipeline est complet et je prépare le prochain article CS Hypnose. Les accents sont là : é à è ù ç œ « » ’ 37 €.</p>]]></content:encoded>
+      <media:content medium="image" url="https://constor33.github.io/cs-hypnose-feed/images/cover-v5-1200x630.png" type="image/png"/>
+      <media:description>Femme lisant le soir dans une chambre chaleureuse — visuel CS Hypnose</media:description>
+      <media:thumbnail url="https://constor33.github.io/cs-hypnose-feed/images/cover-v5-1200x630.png"/>
+      <enclosure url="https://constor33.github.io/cs-hypnose-feed/images/cover-v5-1200x630.png" length="128046" type="image/png"/>
+    </item>
+  </channel>
+</rss>
